@@ -102,6 +102,8 @@ public class DiceActivity extends AppCompatActivity {
 
                 rollButton.clearAnimation();
 
+                //Test beb hahahaha
+
             }
         });
 
